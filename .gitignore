@@ -1,0 +1,7 @@
+dist
+example
+!src/example
+node_modules
+npm-debug.log
+.idea
+.DS_Store
